@@ -1,3 +1,2 @@
 # myrepo
-Repository for testing my Git/GitHub setup
-Commit from RStudio
+Estoy probando este repositorio desde R Studio
